@@ -7,4 +7,3 @@ const getListStudents = () => {
   return students;
 };
 export default getListStudents;
-
